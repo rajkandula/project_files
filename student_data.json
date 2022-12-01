@@ -1,0 +1,17 @@
+{
+  "_id": "cswd2e2s-fd3r-e2e2-fwd2-ved3-wdwd9wmw7eh9jsd",
+  "profile_picture": "user.jpeg",
+  "name": "full name",
+  "about_me_description": "I'm a graduate student.",
+  "date_of_birth": "1/1/2000",
+  "gender": "male",
+  "age": "18",
+  "Mail_Id": "abcde@gmail.com",
+  "address": "124 Hoboken",
+  "contact_Number": 5212349385,
+  "Social_media_profile": [
+    "https://www.facebook.com/java",
+    "https://www.linkedin.com/java"
+  ],
+  "select_courses": ["_id", "course1", "course2"]
+}

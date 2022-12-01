@@ -1,0 +1,22 @@
+{
+  "_id": "sdwd2e2s-fd3r-e2e2-fwd2-ved3-wdwd9wmw7eh9j1l",
+  "profile_picture": "instructor.jpeg",
+  "name": "full name",
+  "date_of_birth": "1/1/2000",
+  "gender": "male",
+  "age": "22",
+  "Organization_Mail_Id": "abcde@stevens.edu",
+  "address": "123 Hoboken",
+  "contact_Number": 4212349384,
+  "Social_media_profile": [
+    "https://www.facebook.com/java",
+    "https://www.linkedin.com/java"
+  ],
+  "course_details": {
+    "_id": "ldwd2e2s-hd7h-e2e2-fwd2-ved3-wdwd9wmw7eh9j1l",
+    "courses_name": "Advance Java",
+    "course_description": "Welcome to the new Java language course",
+    "course_link": ["https://www.youtube.com/java", "https://www.java.com/"],
+    "add_course_notes": ["Java datatypes", "Java loops", "Java collections "]
+  }
+}
